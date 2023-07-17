@@ -9,7 +9,7 @@
     {
       "Condition": {
         "StringEquals": {
-          "aws:username": "test"
+          "aws:username": "test2"
         }
       },
       "Effect": "Allow",
